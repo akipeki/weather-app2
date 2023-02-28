@@ -4,4 +4,4 @@ This the goal I'm looking for: black mode in the evening, light one during the d
 
 Live site: 
 
-https://github.com/akipeki/weather-app2/tree/main
+http://www.korea.fi/technigo051/
